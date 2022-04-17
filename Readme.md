@@ -1,13 +1,11 @@
 # Evan Miller  
-
-![It's me!!](/resume/images/mugshot.jpg "It's really me!!")  
+![It's me!](/resume/Images/mugshot.jpg "It's really me!") 
 
 ### Education
 1. [Cascadia Community College][1] (2011-12)  
-
 1. [Whatcom Community College][2] (2019-2020)  
-
-1. [Western Washington University][3] (2020-2022)
+1. [Western Washington University][3] (2020-2022) 
+### Research Interests
 
 
 [1]: https://www.cascadia.edu/
