@@ -1,5 +1,7 @@
-# Evan Miller  
-![It's me!](/resume/Images/mugshot.jpg "It's really me!") 
+# Evan Miller's Resume  
+ 
+<img src="mugshot.jpg" alt="It's me!"
+style= "width:300px;"/>
 
 ### Education
 1. [Cascadia Community College][1] (2011-12)  
